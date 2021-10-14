@@ -1,0 +1,9 @@
+Lars.com
+<!DOCTYPE html>
+<button><a href='file:///home/lars/lars.com/Lars.com.html' alt='Oops, the button is not functioning!'>Home</a></button><button><a href='file:///home/lars/lars.com/Projects%20Page.html' alt='Oops, the button is not functioning!'>Projects</a>
+<button><a href='file:///home/lars/lars.com/search%20pages.html' alt='Oops, the button is not functioning!'>Search Website</a>
+<h1> About Me </h1>
+<img src="https://www.mbtechworks.com/how-to/imgs/operating-system-1.jpg" alt="Looks like the image didnt load..." width="1000" height="600">
+<h1> I like to code in the</h1>
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" > python language. </a>
+<a href="mailto:larshadley@gmail.com"<button>E-Mail me</a>
